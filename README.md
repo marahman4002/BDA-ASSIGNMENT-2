@@ -61,7 +61,7 @@ Before running the models, each notebook installs and configures Spark like this
 
 ## 📘 Notebook Included
 
-- `BSA_ASSIGNMENT_2.ipynb` – A single Colab notebook containing:
+- `BDA_ASSIGNMENT_2.ipynb` – A single Colab notebook containing:
   - Logistic Regression on Titanic dataset (Classification)
   - KMeans Clustering on Iris dataset
   - ALS Recommendation on MovieLens dataset
